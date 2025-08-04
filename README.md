@@ -6,7 +6,7 @@ A simple Python-based command-line calculator that performs basic arithmetic ope
 
 A simple and interactive command-line calculator built using Python. This program allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division repeatedly until they choose to exit.
 
-## Screenshot
+## 📸 Screenshot
 ![Command-Line Calculator](Screenshot.png)
 
 ## 🔧 Features
