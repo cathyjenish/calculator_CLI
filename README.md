@@ -1,4 +1,4 @@
-# calculator_CLI
+# Calculator CLI App
 A simple Python-based command-line calculator that performs basic arithmetic operations. The app runs in a loop until the user chooses to quit. Perfect for beginners learning Python and command-line interaction.
 
 
